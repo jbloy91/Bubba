@@ -1,0 +1,8 @@
+/Users/joshloy/Documents/VS_CODE/bin/Debug/netcoreapp1.1/VS_CODE.deps.json
+/Users/joshloy/Documents/VS_CODE/bin/Debug/netcoreapp1.1/VS_CODE.runtimeconfig.json
+/Users/joshloy/Documents/VS_CODE/bin/Debug/netcoreapp1.1/VS_CODE.runtimeconfig.dev.json
+/Users/joshloy/Documents/VS_CODE/bin/Debug/netcoreapp1.1/VS_CODE.dll
+/Users/joshloy/Documents/VS_CODE/bin/Debug/netcoreapp1.1/VS_CODE.pdb
+/Users/joshloy/Documents/VS_CODE/obj/Debug/netcoreapp1.1/VS_CODE.AssemblyInfo.cs
+/Users/joshloy/Documents/VS_CODE/obj/Debug/netcoreapp1.1/VS_CODE.dll
+/Users/joshloy/Documents/VS_CODE/obj/Debug/netcoreapp1.1/VS_CODE.pdb
